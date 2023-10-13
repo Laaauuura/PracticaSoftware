@@ -1,2 +1,0 @@
-# PracticaSoftware
- Práctica consumo apis
